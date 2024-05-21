@@ -1,6 +1,9 @@
 # Work Day Scheduler
   ## A scheduling app between the hours of 9am and 5pm, that allows you to enter and save To Do's into local storage. Using DayJs you get the actaul date at the top of the application and the time blocks follow the actual hour and inform you if they are in the past, present or future.
 
+  <img width="1408" alt="image" src="https://github.com/Lrive004/work-day-scheduler/assets/112648247/5077440a-fecb-4976-9201-49d240dbb64b">
+
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
